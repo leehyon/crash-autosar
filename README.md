@@ -1,10 +1,10 @@
 # Crash AUTOSAR
 
-This guide aims to provide an introduction to the foundational knowledge, code practices, and various online resources necessary for entering the field of AUTOSAR. It's designed to help individuals interested in automotive software development quickly grasp the essential knowledge in AUTOSAR.
+This guide aims to provide an introduction to the foundational knowledge, code practices, and various online resources related to AUTOSAR. Its aim is to help individuals interested in this field to quickly grasp relevant knowledge about automotive software development.
 
 ## Motivation
 
-While I have spent several years in the automotive industry, my previous exposure to AUTOSAR was limited to conceptual understanding, without hands-on experience in project development. However, due to current work requirements, I now need to participate in AUTOSAR application layer development. This guide serves as a starting point, allowing me to build knowledge from scratch and gradually accumulate expertise in collaboration with others.
+Although I have been working in the automotive field for many years, my previous understanding of AUTOSAR was limited to basic concepts, and I lacked experience in actual project development. However, due to current work requirements, I now need to participate in a portion of AUTOSAR application layer development. With the help of this document, I hope to start from scratch and gradually accumulate knowledge, aiming for mutual progress.
 
 Currently, I might primarily focus on maintaining the documentation in Chinese.
 
@@ -26,4 +26,4 @@ After completing the synchronization, you can test the website by executing the 
 hugo server
 ```
 
-The documentation is located in the `content/zh/docs` directory. After making modifications, you can submit your changes through pull requests.
+The documentation is located in the `content/` directory. After making modifications, you can submit your changes through pull requests.
