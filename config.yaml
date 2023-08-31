@@ -35,10 +35,10 @@ languages:
 menu:
   # before: []
   after:
-    - name: "GitHub"
+    - name: "📢 GitHub"
       url: "https://github.com/leehyon/crash-autosar"
       weight: 10
-    - name: "AUTOSAR Official"
+    - name: "🌐 AUTOSAR Official"
       url: "https://www.autosar.org/"
       weight: 20
 
@@ -83,7 +83,7 @@ params:
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
   # Edit path must point to root directory of repo.
-  BookEditPath: edit/main
+  # BookEditPath: edit/main
 
   # Configure the date format used on the pages
   # - In git information
